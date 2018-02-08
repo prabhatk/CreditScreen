@@ -6,7 +6,7 @@ How to use Just add Image files in the resource and give those file names in a i
 Have a look on the GIF.
 
 
-[Video.gif]
+[gif](https://github.com/prabhatk/CreditScreen/blob/master/Video.gif)
 
 
 
