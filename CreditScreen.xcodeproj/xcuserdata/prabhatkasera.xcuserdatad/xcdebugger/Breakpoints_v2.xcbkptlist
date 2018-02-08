@@ -10,13 +10,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CreditScreen/CreditScreenViewController.swift"
-            timestampString = "539770550.700487"
+            timestampString = "539772325.141093"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "169"
             endingLineNumber = "169"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            landmarkName = "prepareSeekBar()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

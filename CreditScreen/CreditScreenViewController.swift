@@ -168,7 +168,7 @@ class CreditScreenViewController : UIViewController {
     }
     func prepareSeekBar() {
         
-        self.seekView = UIView(frame: CGRect(x: 0.0, y: UIScreen.main.bounds.height - seekBarHeight, width: self.valueDivider, height: seekBarHeight))
+        self.seekView = UIView(frame: CGRect(x: 0.0, y: self.sliderView.bounds.height - self.seekBarHeight - 6 , width: self.valueDivider, height: seekBarHeight))
         self.seekView.backgroundColor = self.seekBarColor
         self.sliderView.addSubview(self.seekView)
         if isSeekBarWithRoundCorner {
